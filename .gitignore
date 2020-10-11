@@ -99,3 +99,7 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+
+# Haketon-specific
+bin
+bin-int
